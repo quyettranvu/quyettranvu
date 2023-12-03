@@ -18,4 +18,4 @@
 
 [website]: https://tranvuquyet-portfolio.netlify.app/
 [facebook]: https://www.facebook.com/quyet.tranvu.3
-[linkedin]: https://www.linkedin.com/in/tran-vu-quyet-0a5059262/)https://www.linkedin.com/in/tran-vu-quyet-0a5059262/]
+[linkedin]: https://www.linkedin.com/in/tran-vu-quyet-0a5059262/
