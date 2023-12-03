@@ -1,6 +1,6 @@
 ### Hi, I'm Quyet <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Website](https://img.shields.io/badge/Developer-Coworker-green?style=flat-square)](https://tranvuquyet-portfolio.netlify.app/)
-## Your short description
+## My short descriptions
 - 🔭 I’m currently working on - Full Stack Technologies and New Trend Tools
 - 🌱 I’m currently learning - Support DevOps Tools and Cloud Platforms
 - 👯 I’m looking to collaborate with - YayCommerce Team for some private projects
@@ -16,7 +16,6 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
-## Latest blog posts:
 [website]: https://tranvuquyet-portfolio.netlify.app/
 [facebook]: https://www.facebook.com/quyet.tranvu.3
-[linkedin]: https://www.linkedin.com/in/indrajeet-nikam-3737a8101/](https://www.linkedin.com/in/tran-vu-quyet-0a5059262/)https://www.linkedin.com/in/tran-vu-quyet-0a5059262/
+[linkedin]: https://www.linkedin.com/in/tran-vu-quyet-0a5059262/)https://www.linkedin.com/in/tran-vu-quyet-0a5059262/]
