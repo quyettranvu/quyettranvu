@@ -1,5 +1,5 @@
 ### Hi, I'm Quyet <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Website](https://img.shields.io/badge/Fresher Developer-Coworker at YayCommerce-green?style=flat-square)](https://tranvuquyet-portfolio.netlify.app/)
+[![Website](https://img.shields.io/badge/Developer-Coworker-green?style=flat-square)](https://tranvuquyet-portfolio.netlify.app/)
 ## Your short description
 - 🔭 I’m currently working on - Full Stack Technologies and New Trend Tools
 - 🌱 I’m currently learning - Support DevOps Tools and Cloud Platforms
