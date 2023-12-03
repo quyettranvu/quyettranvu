@@ -8,7 +8,7 @@
 - 🥅 2024 Goal - Make friends with more people and develop my programming skills (my account for working below at Github Stats Card)
 - ⚡ Fun fact - I'm an active and energetic person on the way of a combination of young consistency and passion. 
 
-[![Quyet's github stats](https://github-readme-stats.vercel.app/api?username=quyettranvu&count_private=true&include_all_commits=true&theme=radical)](https://github.com/DecisioTran)
+![Quyet's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=quyettranvu&layout=compact)(https://github.com/DecisioTran)
 
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
