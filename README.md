@@ -1,4 +1,5 @@
 ### Hi, I'm Quyet <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### I really love this slogan from KendoReact Server Team: “If we see the value in this new technology, there should be someone out there who’s also facing the same problems as us.”
 [![Website](https://img.shields.io/badge/Developer-Coworker-green?style=flat-square)](https://tranvuquyet-portfolio.netlify.app/)
 ## My short descriptions
 - 🔭 I’m currently working on - Full Stack Technologies and New Trend Tools
