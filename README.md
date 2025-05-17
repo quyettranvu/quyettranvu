@@ -4,9 +4,9 @@
 ## My short descriptions
 - 🔭 I’m currently working on - Full Stack Technologies and New Trend Tools
 - 🌱 I’m currently learning - Support DevOps Tools and Cloud Platforms
-- 👯 I’m now also collaborating with - YayCommerce Team for some private projects
+- 👯 I’m now also collaborating with - Creative Team for some private projects
 - 💬 Ask me about - technological news, books and health shares
-- 🥅 2024 Goal - Make friends with more people and develop my programming skills (my account for working below at Github Stats Card)
+- 🥅 2025 Goal - Make friends with more people and upgrade my professional skills (my account for working below at Github Stats Card)
 - ⚡ Fun fact - I'm an active and energetic person on the way of a combination of young consistency and passion. 
 
 ![Quyet's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=quyettranvu&layout=compact)
