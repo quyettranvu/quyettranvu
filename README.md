@@ -17,6 +17,6 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
-[website]: https://tranvuquyet-portfolio.netlify.app/
+[website]: https://www.quyettranverse.click
 [facebook]: https://www.facebook.com/quyet.tranvu.3
 [linkedin]: https://www.linkedin.com/in/tran-vu-quyet-0a5059262/
