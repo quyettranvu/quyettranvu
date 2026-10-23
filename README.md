@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/Developer-Coworker-green?style=flat-square)](https://tranvuquyet-portfolio.netlify.app/)
 ## My short descriptions
 - 🔭 I’m currently working on - Full Stack Technologies and New Trend Tools
-- 🌱 I’m currently learning - Support DevOps Tools and Cloud Platforms
+- 🌱 I’m currently learning - Support DevOps Tools, Cloud Platforms, AI Topics and Hardware Robotics Solution
 - 👯 I’m now also collaborating with - Creative Team for some private projects
 - 💬 Ask me about - technological news, books and health shares
 - 🥅 2025 Goal - Make friends with more people and upgrade my professional skills (my account for working below at Github Stats Card)
